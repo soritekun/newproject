@@ -57,6 +57,12 @@ h2{
   padding-bottom: 20px;
 }
 
+button{
+  border: none;
+  outline: none;
+}
+
+
 .btn1{
   font-size: 40px;
   display: block;
